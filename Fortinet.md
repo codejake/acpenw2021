@@ -6,7 +6,7 @@
 
 ### Fortinet Tech Support
 
-I can file a ticket via the web, or I can call a phone number and reach a tech support engineer in a few minutes.
+I can file a ticket via the web, or I can call a phone number and reach a tech support engineer in a few minutes. Their technical support engineers are actually highly-knowledgeable engineers with excellent critical thinking skills.
 
 ![Shiboleet](images/shiboleet.jpg)
 

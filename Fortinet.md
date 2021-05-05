@@ -120,3 +120,4 @@ There is a bit of a learning curve. The [free online training](https://training.
 * [FortiAnalyzer Dataset Reference](https://docs.fortinet.com/document/fortianalyzer/6.4.5/dataset-reference/398203/introduction)
 * [Fortinet Developer Network](https://fndn.fortinet.net/) - You will need to sign up for an account and get your rep to approve it.
 * [@FortiReleases: My Twitter Feed for Fortinet Firmware releases](https://twitter.com/FortiReleases)
+* [Josh Ward's Forticlient Installer Repo](https://github.com/shward/forticlient)

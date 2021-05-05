@@ -48,6 +48,12 @@ Threat Feed Types are:
 * Domain Name - A plaintext list of domain names. Wildcards accepted
 * Malware Hash - AKA a list of file hashes 
 
+### REST APIs
+
+Most of Fortinet's product lines, including Fortigate and FortiAnalyzer, have REST API functionality built-in.
+
+...
+
 ## Fortinet Training
 
 Fortinet offers a bunch of great online training, and it's currently free during the pandemic.

@@ -4,7 +4,15 @@
 
 ## Stuff I Like
 
-### Internet Services Database (ISDB)
+### Truly NGFW
+
+Where some other firewall vendors have struggled with the transition to Next Generation Firewall capabilities, Fortinet has been here for a long time.
+
+With Fortinet, you typically implement firewall policies in terms of application types, but you can jump back to ports and IP addresses where desired.
+
+![Application Signatures](images/app-sigs.png)
+
+### Internet Services Database (ISDB) and Application Control
 
 No longer are you resigned to always entering complex firewall rules with vast lists of IPs and ports.
 

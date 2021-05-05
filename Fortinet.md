@@ -30,6 +30,8 @@ The Internet Service Database is a comprehensive public IP address database that
 
 ### Automation Stitches
 
+![Automate All The Things!](images/automate.jpg)
+
 Automation stitches allow you to set up automatic actions in response to Security Fabric events, such as a compromised host, downed connection, HA failover, or practically any other event.
 
 ![Automation Stitch](images/auto1.png)

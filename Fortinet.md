@@ -10,9 +10,26 @@ The Internet Service Database is a comprehensive public IP address database that
 
 ![ISDB](images/isdb.png)
 
-[Online help](https://docs.fortinet.com/document/fortigate/6.4.5/administration-guide/849970/policy-with-internet-service)
+[Online help for ISDB](https://docs.fortinet.com/document/fortigate/6.4.5/administration-guide/849970/policy-with-internet-service)
 
 ### Automation Stitches
+
+Automation stitches allow you to set up automatic actions in response to Security Fabric events, such as a compromised host, downed connection, HA failover, or practically any other event.
+
+![Automation Stitch](images/auto1.png)
+
+Some of the kinds of actions you can perform for an event:
+
+* Run a script
+* Send an email or Slack message
+* Fire off a webhook (super useful and flexible!)
+* Execute an Azure/Google Cloud function
+
+You *can* configure multiple actions to run.
+
+![Automation Stitch Actions](images/auto3.png)
+
+[Online help for Automation Stitches](https://docs.fortinet.com/document/fortigate/6.4.5/administration-guide/139441/automation-stitches)
 
 ### External Connectors
 

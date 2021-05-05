@@ -80,7 +80,7 @@ Check it out: https://training.fortinet.com/
 
 Spoiler: It's PostgreSQL on Linux under the hood, but you don't need to know Linux or PostgreSQL to use FortiAnalyzer.
 
-I am very comfortable with low-level TCP/IP, so I spend most of my time in Log View and Fortiview.
+I am very comfortable with low-level TCP/IP, so I spend most of my time in Log View and Fortiview making heavy use of filters.
 
 FortiAnalyzer comes with a bunch of canned reports, but to write your own, it helps to know some basic SQL (or know enough to steal and modify from the canned reports).
 

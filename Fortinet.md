@@ -4,7 +4,7 @@
 
 ### Internet Services Database (ISDB)
 
-No longer are you resigned to always entering complex firewall rules with vast lists of IPS or ports.
+No longer are you resigned to always entering complex firewall rules with vast lists of IPs and ports.
 
 The Internet Service Database is a comprehensive public IP address database that combines IP address range, IP owner, service port number, and IP security credibility. The data comes from the FortiGuard service system. Information is regularly added to this database, for example, geographic location, IP reputation, popularity & DNS, and so on. All this information helps users define Internet security more effectively. You can use the contents of the database as criteria for inclusion or exclusion in a policy.
 
@@ -43,7 +43,13 @@ Check it out: https://training.fortinet.com/
 
 ## FortiAnalyzer
 
+Spoiler: It's PostgreSQL on Linux under the hood, but you don't need to know Linux or PostgreSQL to use FortiAnalyzer.
+
+FortiAnalyzer comes with a bunch of canned reports, but to write your own, it helps to know some basic SQL (or know enough to steal and modify from the canned reports).
+
 ### Keys to understanding FortiAnalyzer reporting
+
+There is a bit of a learning curve. The [free online training](https://training.fortinet.com/) is excellent!
 
 #### Components of a FortiAnalyzer report
 

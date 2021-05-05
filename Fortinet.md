@@ -60,7 +60,7 @@ Most of Fortinet's product lines, including Fortigate and FortiAnalyzer, have RE
 
 Fortinet offers a bunch of great online training, and it's currently free during the pandemic.
 
-Each course has a great table of contents that lets you skip around material quickly.
+Each course has a great table of contents that lets power users skip around material quickly.
 
 Check it out: https://training.fortinet.com/
 

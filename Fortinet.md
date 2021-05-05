@@ -58,3 +58,12 @@ There is a bit of a learning curve. The [free online training](https://training.
 * Dataset: A dataset is essentially a SQL query and the resulting table of data.
 * Chart: A chart is a report component fed by data from a dataset. A chart can be in the form of a pie graph, a line graph, a table, et cetera.
 * Report: A report is pretty much a series of charts.
+
+### Links
+
+* [/r/fortinet on Reddit](https://old.reddit.com/r/fortinet/)
+* [Fortigate Docs](https://docs.fortinet.com/product/fortigate/6.4)
+* [FortiAnalyzer Docs](https://docs.fortinet.com/product/fortianalyzer/6.4)
+* [FortiAnalyzer Dataset Reference](https://docs.fortinet.com/document/fortianalyzer/6.4.5/dataset-reference/398203/introduction)
+* [Fortinet Developer Network](https://fndn.fortinet.net/) - You will need to sign up for an account and get your rep to approve it.
+

@@ -12,6 +12,8 @@ With Fortinet, you typically implement firewall policies in terms of application
 
 ![Application Signatures](images/app-sigs.png)
 
+[Application Signatures Help](https://docs.fortinet.com/document/fortigate/6.4.5/administration-guide/233445/blocking-applications-with-custom-signatures)
+
 ### Internet Services Database (ISDB) and Application Control
 
 No longer are you resigned to always entering complex firewall rules with vast lists of IPs and ports.

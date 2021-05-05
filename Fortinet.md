@@ -27,13 +27,24 @@ Some of the kinds of actions you can perform for an event:
 * Fire off a webhook (super useful and flexible!)
 * Execute an Azure/Google Cloud function
 
-You *can* configure multiple actions to run.
+Yes, you *can* configure multiple actions to run.
 
 ![Automation Stitch Actions](images/auto3.png)
 
 [Online help for Automation Stitches](https://docs.fortinet.com/document/fortigate/6.4.5/administration-guide/139441/automation-stitches)
 
-### External Connectors
+### External Connectors (Threat Feeds)
+
+External connectors allow you to connect to multiple public and private clouds, as well as subscribe to threat feeds.
+
+![Threat Feeds](images/threat-feeds.png)
+
+Threat Feed Types are:
+
+* FortiGuard Category - AKA a plaintext list of URLs
+* IP Address - A plaintext list of IP addresses (individual or CIDR)
+* Domain Name - A plaintext list of domain names. Wildcards accepted
+* Malware Hash - AKA a list of file hashes 
 
 ## Fortinet Training
 

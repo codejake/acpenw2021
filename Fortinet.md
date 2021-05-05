@@ -78,7 +78,7 @@ There is a bit of a learning curve. The [free online training](https://training.
 
 * Dataset: A dataset is essentially a SQL query and the resulting table of data.
 * Chart: A chart is a report component fed by data from a dataset. A chart can be in the form of a pie graph, a line graph, a table, et cetera.
-* Report: A report is pretty much a series of charts.
+* Report: A report is pretty much a collection of charts.
 
 ### Links
 

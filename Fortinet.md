@@ -39,6 +39,8 @@ External connectors allow you to connect to multiple public and private clouds, 
 
 ![Threat Feeds](images/threat-feeds.png)
 
+Threat feeds are cool because they allow you to subscribe to open lists like Openphish, spamhaus, the various malware hash feeds, and so on.
+
 Threat Feed Types are:
 
 * FortiGuard Category - AKA a plaintext list of URLs

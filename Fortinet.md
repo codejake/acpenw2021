@@ -78,9 +78,7 @@ Check it out: https://training.fortinet.com/
 
 ## FortiAnalyzer
 
-<video controls preload>
-    <source src="images/math.mp4">
-</video>
+![](images/math.gif)
 
 Spoiler: It's PostgreSQL on Linux under the hood, but you don't need to know Linux or PostgreSQL to use FortiAnalyzer.
 

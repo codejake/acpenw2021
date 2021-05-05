@@ -39,7 +39,7 @@ External connectors allow you to connect to multiple public and private clouds, 
 
 ![Threat Feeds](images/threat-feeds.png)
 
-Threat feeds are cool because they allow you to subscribe to open lists like Openphish, spamhaus, the various malware hash feeds, and so on.
+Threat feeds are cool because they allow you to subscribe to open lists like OpenPhish, SpamHaus, the various malware hash feeds, and so on. You can adapt these threat feeds to a variety of firewall policy types.
 
 Threat Feed Types are:
 

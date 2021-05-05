@@ -4,6 +4,12 @@
 
 ## Stuff I Like
 
+### Fortinet Tech Support
+
+I can file a ticket via the web, or I can call a phone number and reach a tech support engineer in a few minutes.
+
+![Shiboleet](images/shiboleet.jpg)
+
 ### Truly NGFW
 
 Where some other firewall vendors have struggled with the transition to Next Generation Firewall capabilities, Fortinet has been here for a long time.

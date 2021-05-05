@@ -52,7 +52,9 @@ Threat Feed Types are:
 
 Most of Fortinet's product lines, including Fortigate and FortiAnalyzer, have REST API functionality built-in.
 
-...
+![FortiOS REST API](images/fortios-rest.png)
+
+[REST API Documentation](https://fndn.fortinet.net/) - Account required ☹️
 
 ## Fortinet Training
 

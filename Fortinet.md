@@ -107,6 +107,8 @@ There is a bit of a learning curve. The [free online training](https://training.
 * [/r/fortinet on Reddit](https://old.reddit.com/r/fortinet/)
 * [Fortinet Guru on YouTube](https://www.youtube.com/channel/UC-rd6xdOuYdWxON1sUOCyUA)
 * [Fortinet on YouTube](https://www.youtube.com/c/fortinet/)
+* [Fortigate Video Library](https://video.fortinet.com/products/fortigate/6.4) - Videos for older firmwares still apply.
+* [FortiAnalyzer Video Library](https://video.fortinet.com/products/fortianalyzer/6.4) - Videos for older firmwares still apply.
 * [Fortigate Docs](https://docs.fortinet.com/product/fortigate/6.4)
 * [FortiAnalyzer Docs](https://docs.fortinet.com/product/fortianalyzer/6.4)
 * [FortiAnalyzer Dataset Reference](https://docs.fortinet.com/document/fortianalyzer/6.4.5/dataset-reference/398203/introduction)

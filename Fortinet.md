@@ -108,10 +108,6 @@ There is a bit of a learning curve. The [free online training](https://training.
 * Chart: A chart is a report component fed by data from a dataset. A chart can be in the form of a pie graph, a line graph, a table, et cetera.
 * Report: A report is pretty much a collection of charts.
 
-### Tips
-
-* If you feel overwhelmed with logs, consider turning off logging for rules where it's not needed. You can always flip logging back on when you need to troubleshoot. Eg: I have a rule for Apple App Store traffic, do I really need detailed logging for that?
-
 ## Links
 
 * [/r/fortinet on Reddit](https://old.reddit.com/r/fortinet/)

@@ -51,7 +51,7 @@ FortiAnalyzer comes with a bunch of canned reports, but to write your own, it he
 
 There is a bit of a learning curve. The [free online training](https://training.fortinet.com/) is excellent!
 
-#### Components of a FortiAnalyzer report
+#### It is important to understand how the components of a FortiAnalyzer report fit together
 
 * Dataset: A dataset is essentially a SQL query and the resulting table of data.
 * Chart: A chart is a report component fed by data from a dataset. A chart can be in the form of a pie graph, a line graph, a table, et cetera.

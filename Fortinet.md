@@ -38,7 +38,7 @@ Some of the kinds of actions you can perform for an event:
 
 * Run a script
 * Send an email or Slack message
-* Fire off a webhook (super useful and flexible!)
+* Fire off a webhook. Useful for gluing disparate systems together!
 * Execute an Azure/Google Cloud function
 
 Yes, you *can* configure multiple actions to run.

@@ -78,6 +78,8 @@ Each course has a great table of contents that lets power users skip around mate
 
 Check it out: https://training.fortinet.com/
 
+![Training](images/training.png)
+
 ## FortiAnalyzer
 
 Spoiler: It's PostgreSQL on Linux under the hood, but you don't need to know Linux or PostgreSQL to use FortiAnalyzer.

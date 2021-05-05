@@ -16,6 +16,10 @@ With Fortinet, you typically implement firewall policies in terms of application
 
 No longer are you resigned to always entering complex firewall rules with vast lists of IPs and ports.
 
+Application Control allows you to define access policies, shaping, and QoS for specific applications.
+
+![Application Control](images/app-control.png)
+
 The Internet Service Database is a comprehensive public IP address database that combines IP address range, IP owner, service port number, and IP security credibility. The data comes from the FortiGuard service system. Information is regularly added to this database, for example, geographic location, IP reputation, popularity & DNS, and so on. All this information helps users define Internet security more effectively. You can use the contents of the database as criteria for inclusion or exclusion in a policy.
 
 ![ISDB](images/isdb.png)
